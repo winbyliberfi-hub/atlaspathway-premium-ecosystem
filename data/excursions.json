@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Atlas Mountains Day Trip",
+    "href": "tours/atlas-mountains-day-trip.html",
+    "summary": "Three valleys, Berber villages, panoramic trails and local hospitality from Marrakech.",
+    "price": "From EUR 45"
+  },
+  {
+    "name": "Agafay Desert Dinner",
+    "href": "tours/agafay-desert-dinner.html",
+    "summary": "Sunset, camel ride, Moroccan dinner, live music and desert fire show.",
+    "price": "From EUR 55"
+  },
+  {
+    "name": "Ourika Valley Day Trip",
+    "href": "tours/ourika-valley-tour.html",
+    "summary": "Waterfalls, river valleys, markets and a mountain guide-led day escape.",
+    "price": "From EUR 35"
+  }
+]
